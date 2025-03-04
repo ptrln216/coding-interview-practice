@@ -14,14 +14,14 @@
 - [x] 1.9 - String Rotation 
 
 #### Chapter 2 
-- [ ] 2.1 - Remove Dups
-- [ ] 2.2 - Return Kth to Last
-- [ ] 2.3 - Delete Middle Node
-- [ ] 2.4 - Partition
-- [ ] 2.5 - Sum Lists
-- [ ] 2.6 - Palindrome
-- [ ] 2.7 - Intersection
-- [ ] 2.8 - Loop Detection
+- [x] 2.1 - Remove Dups
+- [x] 2.2 - Return Kth to Last
+- [x] 2.3 - Delete Middle Node
+- [x] 2.4 - Partition
+- [x] 2.5 - Sum Lists
+- [x] 2.6 - Palindrome
+- [x] 2.7 - Intersection
+- [x] 2.8 - Loop Detection
 
 #### Chapter 3 
 - [ ] 3.1 - Three in One
