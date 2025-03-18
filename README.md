@@ -32,18 +32,18 @@
 - [x] 3.6 - Animal Shelter
 
 #### Chapter 4
-- [ ] 4.1 - Route Between Nodes
-- [ ] 4.2 - Minimal Tree
-- [ ] 4.3 - List of Depths
-- [ ] 4.4 - Check Balanced
-- [ ] 4.5 - Validate BST
-- [ ] 4.6 - Successor
-- [ ] 4.7 - Build Order
-- [ ] 4.8 - First Common Ancestor
-- [ ] 4.9 - BST Sequences
-- [ ] 4.10 - Check Subtree
-- [ ] 4.11 - Random Node
-- [ ] 4.12 - Paths with Sum
+- [x] 4.1 - Route Between Nodes
+- [x] 4.2 - Minimal Tree
+- [x] 4.3 - List of Depths
+- [x] 4.4 - Check Balanced
+- [x] 4.5 - Validate BST
+- [x] 4.6 - Successor
+- [x] 4.7 - Build Order
+- [x] 4.8 - First Common Ancestor
+- [x] 4.9 - BST Sequences
+- [x] 4.10 - Check Subtree
+- [x] 4.11 - Random Node
+- [x] 4.12 - Paths with Sum
 
 #### Chapter 5
 - [ ] 5.1 - Insertion
